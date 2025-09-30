@@ -1,0 +1,114 @@
+{
+  "categories": [
+    {
+      "type": "business",
+      "isSelected": true
+    },
+    {
+      "type": "health",
+      "isSelected": false
+    },
+    {
+      "type": "sports",
+      "isSelected": false
+    },
+    {
+      "type": "science",
+      "isSelected": false
+    }
+  ],
+  "allNews": {
+    "business": [
+      {
+        "image": "business1",
+        "title": "Qlobal biznes xəbərləri",
+        "resource": "The Economic Times",
+        "date": "20.09.2025",
+        "details": "Dünya iqtisadiyyatında baş verən son dəyişikliklər şirkətlər üçün yeni imkanlar yaradır. Beynəlxalq bazarlarda artan rəqabət və texnoloji yeniliklər biznes sahəsində böyük dəyişikliklərə səbəb olur. Ekspertlər 2025-ci ildə iqtisadi artımın davam edəcəyini proqnozlaşdırır.Fabriklarda satılmamış malların həcmi artıb, tələbat zəifləməkdədir.The Guardian +1 Federal Rezerv Bankı (Fed) inflyasiyanı nəzarətdə saxlamağa çalışsa da, iş bazarında yumşalma və artan borc yükü kimi risklər görünür. İnvestorlar tarif siyasəti, mərkəzi bankların müstəqilliyi kimi məsələlərdən narahatdırlar. Bazarlar sentyabr ayı sonrası üçün daha çox risk gözləyir.Almaniyada iş fəaliyyəti (business activity) sentyabrda sürətlə böyüyüb – xidmət sektoru xüsusilə artıb. Composite PMI indeksi 52.4-ə yüksəlib (50-dən yüksək dəyərlər artımı göstərir). Reuterslakin Almaniyanın istehsal sektoru müqayisədə zəif performans göstərməkdədir – istehsalat indeksi düşüb."
+      },
+      {
+        "image": "business2",
+        "title": "SOCAR-ın Italiana Petroli şirkətini almasına yaxınlaşması",
+        "resource": "Reuters",
+        "date": "15.09.2025",
+        "details": "Azərbaycanın dövlət neft şirkəti SOCAR İtaliyada böyük bir addım atmağa hazırlaşır. Italiana Petroli şirkətinin alınması SOCAR-ın Avropa bazarındakı mövqeyini gücləndirecək. Bu alış Azərbaycan neftinin Avropa bazarlarında daha geniş yayılmasına kömək edəcək.Azərbaycanın dövlət enerji şirkəti SOCAR, Avropanın ən iri yanacaq və neft şirkətlərindən biri olan Italiana Petroli (IP)-ni almaq üzrə yekun mərhələyə daxil olub. Müqavilə nəticəsində SOCAR İtaliyada 3,000-dən çox yanacaqdoldurma məntəqəsi, iki böyük neft emalı zavodu və geniş logistika infrastrukturuna sahib olacaq. Bu alış həm SOCAR üçün Avropada bazar payını artırmaq, həm də Azərbaycan üçün strateji enerji marşrutlarını gücləndirmək baxımından önəm daşıyır. Əməliyyatın dəyərinin 2.3-2.5 milyard avro arasında olduğu bildirilir. Bu addım SOCAR-ın qlobal enerji bazarında güclənməsi və Azərbaycanın Avropadakı iqtisadi nüfuzunun artması deməkdir."
+      },
+      {
+        "image": "business3",
+        "title": "ABŞ-Hindistan ticarət danışıqları",
+        "resource": "Times of India",
+        "date": "22.09.2025",
+        "details": "Amerika və Hindistan arasında aparılan ticarət danışıqları dünya iqtisadiyyatı üçün böyük əhəmiyyət kəsb edir. İki ölkə arasında ticarət həcminin artırılması istiqamətində addımlar atılır. Bu əməkdaşlıq texnologiya və enerji sahəsində yeni layihələr yarada bilər.Son illərdə ABŞ və Hindistan arasında iqtisadi əlaqələr daha da intensivləşib. Hazırda aparılan ticarət danışıqları əsasən kənd təsərrüfatı məhsulları, dərman sənayesi və texnologiya bazarı üzərində cəmlənib. ABŞ tərəfi Hindistanın yüksək tarif və ticarət baryerlərinin aradan qaldırılmasını istəyir, Hindistan isə ABŞ-ın H-1B vizalarına tətbiq etdiyi yüksək rüsumlardan narazıdır. Hər iki tərəf əməkdaşlığın genişlənməsinin qlobal ticarət balansına müsbət təsir edəcəyini vurğulayır. Bu danışıqlar həm də Hindistanın Asiyada Çinlə rəqabətində, ABŞ-ın isə Asiyada strateji təsirini gücləndirməsində mühüm rol oynaya bilər."
+      }
+    ],
+    "health": [
+      {
+        "image": "health1",
+        "title": "Yeni COVID variantı haqqında xəbərlər",
+        "resource": "Health News",
+        "date": "18.09.2025",
+        "details": "Dünya Səhiyyə Təşkilatı yeni COVID variantının yayılmasını diqqətlə izləyir. Yeni variant əvvəlki versiyalara nisbətən daha yüngül simptomlar göstərir. Həkimlər vaksinasiya və gigiyena qaydalarına riayət etməyin vacibliyini vurğulayırlar.2025-ci ilin payızında dünyada yeni bir COVID-19 variantı — “Stratus” yayılmağa başlayıb. Bu variant omikron ştamının törəməsidir və yüksək yoluxuculuq qabiliyyəti ilə seçilir. Moderna şirkəti isə bu və digər mutasiyalara qarşı mNEXSPIKE adlı yeni nəsil peyvəndini sınaqdan keçirir. İlk nəticələr peyvəndin xüsusilə yaşlı əhali və risk qruplarında güclü immun cavabı formalaşdırdığını göstərir. Hazırda bir çox ölkə bu peyvəndin sürətli təsdiqi üzərində işləyir. Epidemioloqlar xəbərdarlıq edir ki, COVID-19 pandemiya mərhələsindən çıxsa da, yeni variantların ortaya çıxması virusun hələ də ciddi təhdid olaraq qalmasına səbəb ola bilər."
+      },
+      {
+        "image": "health2",
+        "title": "Sağlam qidalanma üçün tövsiyələr",
+        "resource": "Medical Journal",
+        "date": "16.09.2025",
+        "details": "Qidalanma mütəxəssisləri sağlam həyat tərzi üçün vacib tövsiyələr verirlər. Gündəlik qidada tərəvəz və meyvələrin çox olması, şirin və yaglı yeməklərin azaldılması sağlamlıq üçün çox vacibdir. Kifayət qədər su içmək və nizamlı yemək yemək də sağlamlığı qoruyur.Mütəxəssislərin fikrincə, balanslı və sağlam qidalanma insanların uzunömürlülüyü və xəstəliklərdən qorunması üçün əsas amildir. Dünya Səhiyyə Təşkilatı gündəlik rasionda təzə tərəvəz və meyvələrin, paxlalıların, qoz-fındıq və toxumların əsas yer tutmasını tövsiyə edir. Zülal yalnız ət və süd məhsullarından deyil, həm də bitki mənbələrindən alınmalıdır. Şəkərli içkilər, fast-food və yüksək duzlu məhsullar məhdudlaşdırılmalı, trans yağlardan tamamilə uzaq durulmalıdır. Əlavə olaraq, gündə kifayət qədər su içmək, porsiyaları kiçiltmək və yeməkləri daha çox evdə hazırlamaq qidalanma vərdişlərini yaxşılaşdıran əsas addımlardandır."
+      },
+      {
+        "image": "health3",
+        "title": "Sürətli yürüş tənəffüsü və ağciyər xərçəngi riskini azalda bilər",
+        "resource": "Times of India",
+        "date": "18.09.2025",
+        "details": "Son tədqiqatlar göstərir ki, gündəlik 30 dəqiqə sürətli yürüş ağciyər xəstəlikləri riskini 40%-ə qədər azaldır. Fiziki aktivlik ağciyərlərin təmizlənməsinə və immunitet sisteminin güclənməsinə kömək edir. Həkimlər hər yaşda insanlara düzgün fiziki aktivlik tövsiyə edirlər.Hong Kong Universitetinin son tədqiqatı göstərib ki, gündəlik sürətli tempdə yürüş təkcə fiziki formada qalmaq üçün deyil, həm də ağciyər xərçəngi riskini 50%-ə qədər azaltmaq üçün mühüm rol oynaya bilər. Araşdırmada on minlərlə insanın uzunmüddətli həyat tərzi məlumatları incələnib və nəticələr sübut edib ki, nəfəs alma sistemi daha aktiv çalışan, yəni sürətli yeriyən insanlarda hüceyrələrin oksigenlə zənginləşməsi və orqanizmdən toksinlərin tez xaric olunması daha effektivdir. Bu da xərçəngə yol açan proseslərin qarşısını ala bilər. Həkimlər gündə ən azı 30 dəqiqə orta və ya sürətli tempdə yeriməyi tövsiyə edir."
+      }
+    ],
+    "sports": [
+      {
+        "image": "LeBron James",
+        "title": "LeBron James 2025-26 mövsümündə NBA-də 23-cü sezonunu oynayacaq",
+        "resource": "Washington Post",
+        "date": "29.06.2025",
+        "details": "NBA ulduzlarından LeBron James basketbol karyerasında yeni bir rekorda imza atacaq. 40 yaşında olmasına baxmayaraq, LeBron hələ də yüksək səviyyədə oynamağa davam edir. O, Los Angeles Lakers komandası ilə yeni müqavilə imzalayaraq NBA tarixində ən uzun karyeraya malik oyunçulardan biri olacaq.Basketbol tarixinin ən böyük ulduzlarından biri sayılan LeBron James, Los Angeles Lakers ilə müqaviləsini uzadaraq 23-cü mövsümünü oynayacağını təsdiqləyib. 52.6 milyon dollar dəyərində olan bu “player option” onun NBA tarixində ən uzun karyeralardan birinə sahib olmasını təmin edir. 40 yaşına yaxınlaşsa da, James hələ də yüksək performans göstərir və NBA-də həm idman, həm də biznes baxımından simvola çevrilib. Ekspertlər onun gələcəkdə həm idmançı, həm də sahibkar olaraq basketbol dünyasına təsirini davam etdirəcəyini bildirirlər."
+      },
+      {
+        "image": "Koby Bryant",
+        "title": "Kobe & Vanessa Bryant Ailə Fondu və Mamba & Mambacita Fondu",
+        "resource": "Sports Today",
+        "date": "21.09.2025",
+        "details": "Mərhum basketbol ulduzunun ailəsi xeyriyyə işlərini davam etdirir. Kobe Bryant Fondu gənc idmançılara dəstək verir və onların təhsil almasına kömək edir. Fond həmçinin qızlar basketbolunun inkişafı üçün xüsusi proqramlar həyata keçirir.Kobe Bryantın faciəvi şəkildə həyatını itirməsindən sonra ailəsi tərəfindən iki mühüm xeyriyyə təşkilatı fəal şəkildə işini davam etdirir. Kobe & Vanessa Bryant Family Foundation, gənclərin təhsil və idman imkanlarını artırmağa yönəlib, xüsusilə az təminatlı ailələrin uşaqlarına dəstək göstərir. Mamba & Mambacita Sports Foundation isə Kobe və qızı Gianna-nın xatirəsinə yaradılıb. Fondun əsas məqsədi gənc idmançı qız və oğlanlara bərabər imkanlar yaratmaq, idman vasitəsilə cəmiyyətlərdə müsbət dəyişikliklərə nail olmaqdır. Vanessa Bryant tez-tez bu fondlar vasitəsilə təqaüdlər, idman geyimləri və proqramlar təqdim edir."
+      },
+      {
+        "image": "Michael Jordan",
+        "title": "Jordan-a məxsus NASCAR komandası çarter hüququ satışı səbəbindən çətinliklərlə üzləşə bilər",
+        "resource": "RacingNews.co",
+        "date": "31.08.2025",
+        "details": "Basketbol əfsanəsi Michael Jordan-ın avtomobil yarışları komandası NASCAR-da çətinliklər üzləşir. 23XI Racing komandası yarış hüququnun satışı məsələsində problemlər yaşayır. Jordan və tərəfdaşları bu vəziyyətin həlli üçün NASCAR rəhbərliyi ilə danışıqlar aparır.Məşhur basketbolçu Michael Jordan tərəfindən yaradılmış 23XI Racing komandası hazırda NASCAR-la hüquqi mübahisələr yaşayır. Komanda iddia edir ki, NASCAR-ın tətbiq etdiyi yeni “charter sistemi” komandalar arasında qeyri-bərabər pay bölgüsünə səbəb olur. Bu, komandanın maliyyə sabitliyinə mənfi təsir göstərib. Jordan və komanda rəhbərlərinin yayılan mesajlarında da NASCAR rəhbərliyinə qarşı narazılıqlar öz əksini tapıb. Hal-hazırda məhkəmə prosesi gedir və nəticə həm Jordanın komandasının, həm də ümumilikdə NASCAR biznes modelinin gələcəyini müəyyən edə bilər."
+      }
+    ],
+    "science": [
+      {
+        "image": "science1",
+        "title": "NASA-nın yeni kəşfi",
+        "resource": "Science Daily",
+        "date": "19.09.2025",
+        "details": "NASA alimləri kosmosda yeni bir planet kəşf edilər. Bu planet Yer kürəsinə çox bənzəyir və üzərində su ola bilər. Kəşf James Webb teleskopu vasitəsilə həyata keçirilib. Alimlər bu planetdə həyatın mövcudluğunu araşdırmaq üçün daha detallı tədqiqatlar aparacaqlar.NASA-nın Parker Solar Probe adlı kosmik aparatı Günəşə ən yaxın uçuşlarından birində rekord sürətə çatıb — təxminən 687,000 km/saat. Bu sürət kosmosda insan tərəfindən hazırlanmış obyekt üçün ən yüksək göstərici hesab olunur. Missiyanın əsas məqsədi Günəşin xarici atmosferini (korona) öyrənmək, Günəş küləklərinin mənbələrini və maqnit sahələrinin davranışını anlamaqdır. Bu məlumatlar gələcəkdə Yer kürəsini təsir edən günəş fırtınalarının daha dəqiq proqnozlaşdırılmasına kömək edəcək. NASA alimləri bildirirlər ki, əldə edilən nəticələr kosmos texnologiyaları və astrofizika üçün tarixi əhəmiyyət daşıyır."
+      },
+      {
+        "image": "science2",
+        "title": "Süni intellekt sahəsində irəliləyişlər",
+        "resource": "Tech News",
+        "date": "17.09.2025",
+        "details": "2025-ci ildə süni intellekt texnologiyaları həyatımızda daha da vacib rol oynayır. ChatGPT kimi proqramların inkişafı təhsil və iş sahələrində böyük dəyişikliklər yaradır. Ekspertlər süni intellektin gələcəkdə daha da güclü olacağını və insanlara daha çox kömək edəcəyini bildirirlər.Süni intellekt (AI) artıq bir çox sahədə köklü dəyişikliklər yaradır. Son yeniliklərdən biri BMW şirkətinin avtomobil istehsalı prosesinə AI texnologiyalarını tətbiq etməsidir. Ənənəvi olaraq beş-yeddi il çəkən yeni avtomobil modellərinin hazırlanması süni intellektin köməyi ilə bir neçə ilə endirilə bilər. AI dizayn, proqramlaşdırma və test mərhələlərində böyük dəqiqlik və sürət təmin edir. Bundan əlavə, AI səhiyyədə xəstəliklərin daha tez aşkarlanması, maliyyə bazarlarında risklərin idarə olunması və təhsil sahəsində fərdi öyrənmə imkanlarının artırılmasında da sürətlə tətbiq olunur. Bu inkişafların həm iqtisadi, həm də sosial təsirləri olduqca böyükdür."
+      },
+      {
+        "image": "science3",
+        "title": "Dodo quşunun yenidən canlandırılması istiqamətində gen-redaktə ilə önəmli addım",
+        "resource": "The Guardian",
+        "date": "17.09.2025",
+        "details": "Alimlər 400 il əvvəl nəsli kəsilmiş Dodo quşunu yenidən canlandırmaq üçün gen texnologiyasından istifadə edirlər. Bu layihə nəsli kəsilmiş heyvanları geri qaytarmaq üçün yeni ümidlər yaradır. Tədqiqat heyəti Dodo quşunun DNK-sını öyrənir və onu yaxın qohumu olan quşlara tətbiq edir.Bir neçə əsr əvvəl nəsli kəsilmiş dodo quşunun genetik mühəndislik vasitəsilə yenidən canlandırılması istiqamətində mühüm addım atılıb. Texasda yerləşən Colossal Biosciences şirkəti dodo quşuna genetik baxımdan ən yaxın növ olan Nicobar göyərçinindən hüceyrələr götürərək onları genetik dəyişdirilmiş toyuqlara yerləşdirib. Məqsəd dodo quşunun nəsli kəsilməmiş kimi genetik ardıcıllığını bərpa etməkdir. Bu, hələ ilkin mərhələdir, lakin uğurlu olacağı təqdirdə yaxın onillikdə dodo quşları yenidən Mauritius adasında xüsusi qoruma zonalarında yaşaya bilər. Bəzi alimlər bu layihəni ekoloji tarazlığın bərpası üçün əhəmiyyətli saysalar da, digərləri etik və praktiki çətinliklərə diqqət çəkirlər."
+      }
+    ]
+  }
+}
