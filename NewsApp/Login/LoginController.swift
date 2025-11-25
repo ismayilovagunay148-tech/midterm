@@ -53,7 +53,7 @@ class LoginController: UIViewController {
             
         } else {
             
-            let alert = UIAlertController(title: "Xəta", message: "Email və ya şifrə səhvdir", preferredStyle: .alert)
+            let alert = UIAlertController(title: "Error", message: "Email və ya şifrə səhvdir", preferredStyle: .alert)
             alert.addAction(UIAlertAction(title: "OK", style: .default))
             present(alert, animated: true)
         }
